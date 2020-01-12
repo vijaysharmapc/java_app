@@ -1,0 +1,30 @@
+File Cache
+==========
+
+Problem Definition
+------------------
+You will be provided with a CacheInterface which you have to create an implementation for. This will be run against the test data by the code in the Main and CacheTest classes.
+
+The tests are defined in the config directory and you can peruse the provided code to see how the work. You should however notice that the test files are named for what they do.
+
+There is also a data directory with a series of files with a specific naming scheme that involves a version.
+
+Questions
+---------
+1. Create an implementation of the CacheInterface that passes all provided tests.( smakes sense)
+2. See if you can provide a more configurable cache that allows for tuning of various parameters. ( get size of each data file)
+	a) Make sure to include why you added the various tuning parameters and what you expect them to do.
+
+Notes
+-----
+This code requires Java 11. It will not work with an older version.
+Please do not submit hidden files (.idea, .DS_Store, Thumbs.db, etc) with your solution.
+The solution will be graded based on the following:
+	1) Passing the given tests.
+	2) Provided tuning knobs and their explanations.
+	3) Performance of the solution.
+	4) Appropriate documentation.
+	5) Code structure and appearance.
+	6) Novelty and insight into the problem.
+
+Generally, please put your best foot forward.

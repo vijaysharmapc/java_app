@@ -1,0 +1,7 @@
+com\bigvikinggames\filecache\FindZeroOddCache.class
+com\bigvikinggames\filecache\CacheTest.class
+com\bigvikinggames\filecache\AlwaysFailCache.class
+com\bigvikinggames\filecache\Main.class
+com\bigvikinggames\filecache\FindZeroCache.class
+com\bigvikinggames\filecache\TestStep.class
+com\bigvikinggames\filecache\CacheInterface.class
